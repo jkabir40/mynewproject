@@ -2,3 +2,5 @@ line 1 added
 line 2 added
 project2 added new line
 project1 added another line
+project2 addeded first line
+and second line
