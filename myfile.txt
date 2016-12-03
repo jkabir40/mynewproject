@@ -2,3 +2,4 @@ new file added by project2
 added new line
 another line
 new line added to check
+new line added to check2
